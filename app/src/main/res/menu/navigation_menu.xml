@@ -1,0 +1,56 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/userProfile"
+            android:title="@string/profile"
+            android:icon="@drawable/username" />
+
+        <item
+            android:id="@+id/embeddedVideo"
+            android:title="@string/watch"
+            android:icon="@drawable/video" />
+        <item
+            android:id="@+id/blogs"
+            android:title="@string/blogs"
+            android:icon="@drawable/like" />
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item
+        android:id="@+id/detection"
+        android:title="@string/detection"
+        android:icon="@drawable/machine_learning" />
+        <item
+            android:id="@+id/RESTfulAPI"
+            android:title="@string/restful_api"
+            android:icon="@drawable/machine_learning" />
+        <item
+            android:id="@+id/map"
+            android:title="@string/map"
+            android:icon="@drawable/map" />
+        <item
+            android:id="@+id/Animation"
+            android:title="@string/animation"
+            android:icon="@drawable/table" />
+
+
+    </group>
+
+    <group android:checkableBehavior="single">
+       <item
+        android:id="@+id/rating"
+        android:title="@string/rating"
+        android:icon="@drawable/rating" />
+
+       <item
+        android:id="@+id/aboutUs"
+        android:title="@string/about_us"
+        android:icon="@drawable/about_us" />
+
+
+
+    </group>
+
+
+
+</menu>

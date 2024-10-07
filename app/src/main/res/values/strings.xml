@@ -1,0 +1,147 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">login</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="register">register</string>
+    <string name="click_to_login">click to login</string>
+    <string name="Register">Register</string>
+    <string name="click_to_register">click to register</string>
+    <string name="logout">logout</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="full_name">Full Name</string>
+    <string name="enter_full_name">Enter full name</string>
+    <string name="username">Username</string>
+    <string name="enter_a_username">Enter a Username</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="enter_your_e_mail">Enter your e-mail</string>
+    <string name="date_of_birth_dd_mm_yyyy">Date of Birth(dd/mm/yyyy)</string>
+    <string name="enter_your_date_of_birth_dd_mm_yyyy">Enter your date of birth(dd/mm/yyyy)</string>
+    <string name="gender">Gender</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="phone">Phone</string>
+    <string name="enter_your_phone_number_without_880">Enter your phone number (without +880)</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="re_enter_your_password">Re enter your password</string>
+    <string name="division">Division</string>
+    <string name="district">District</string>
+    <string name="rating">Rating</string>
+    <string name="post">post</string>
+    <string name="map">MAP</string>
+    <string name="embedded_video">Embedded Video</string>
+    <string name="machine_learning">Machine Learning</string>
+    <string name="posts">Posts</string>
+    <string name="restful_api">RESTful API</string>
+    <string name="graphql">GraphQL</string>
+    <string name="submit">Submit</string>
+    <string name="current_rating">Current Rating :</string>
+    <string name="feature2">feature2</string>
+    <string name="feature8">feature8</string>
+    <string name="feature7">feature7</string>
+    <string name="feature6">feature6</string>
+    <string name="option_1">Option 1</string>
+    <string name="option_2">Option 2</string>
+    <string name="option_4">Option 4</string>
+    <string name="option_3">Option 3</string>
+    <string name="option_5">Option 5</string>
+    <string name="edit_fragment_fixtures_xml_to_change_the_appearance">Edit fragment_fixtures.xml to change the appearance</string>
+    <string name="fixtures">Fixtures</string>
+    <string name="connect">Connect</string>
+    <string name="edit_fragment_connect_xml_to_change_the_appearance">Edit fragment_connect.xml to change the appearance</string>
+    <string name="table">Table</string>
+    <string name="edit_fragment_table_xml_to_change_the_appearance">Edit fragment_table.xml to change the appearance</string>
+    <string name="vlog">vlog</string>
+    <string name="profile">profile</string>
+    <string name="user_name">User Name</string>
+    <string name="user_email">User Email</string>
+    <string name="blogs">blogs</string>
+    <string name="watch">Watch</string>
+    <string name="detection">Detection</string>
+    <string name="about_us">About Us</string>
+    <string name="animation">Animation</string>
+    <string-array name="array_BD_states">
+        <item>Select Your State</item>
+        <item>Dhaka</item>
+        <item>Barisal</item>
+        <item>Chattogram</item>
+        <item>Mymensingh</item>
+        <item>Khulna</item>
+        <item>Rajshahi</item>
+        <item>Sylhet</item>
+
+    </string-array>
+
+    <string-array name="array_default_districts">
+        <item>Select Your District</item>
+    </string-array>
+
+    <string-array name="array_Dhaka_districts">
+        <item>Dhaka</item>
+        <item>Faridpur</item>
+        <item>Gazipur</item>
+        <item>GopalGanj</item>
+        <item>Manikganj</item>
+    </string-array>
+
+
+    <string-array name="array_Barisal_districts">
+        <item>Barguna</item>
+        <item>Barisal</item>
+        <item>Bhola</item>
+        <item>Jhalokati</item>
+        <item>Patuakhali</item>
+    </string-array>
+
+
+    <string-array name="array_Chattogram_districts">
+        <item>Bandarban</item>
+        <item>Chandpur</item>
+        <item>Chittagong</item>
+        <item>Comilla</item>
+        <item>Noakhali</item>
+    </string-array>
+
+
+    <string-array name="array_Mymensingh_districts">
+        <item>Mymensingh</item>
+        <item>Jamalpur</item>
+        <item>Sherpur</item>
+        <item>Netrokona</item>
+
+    </string-array>
+
+
+    <string-array name="array_Khulna_districts">
+        <item>Bagerhat</item>
+        <item>Jessore</item>
+        <item>Khulna</item>
+        <item>Kushtia</item>
+        <item>Magura</item>
+    </string-array>
+
+
+    <string-array name="array_Rajshahi_districts">
+        <item>Bogra</item>
+        <item>Rajshahi</item>
+        <item>Sirajganj</item>
+        <item>Natore</item>
+        <item>Nawabganj</item>
+    </string-array>
+
+
+    <string-array name="array_Sylhet_districts">
+        <item>Sylhet</item>
+        <item>Habiganj</item>
+        <item>Maulvibazar</item>
+        <item>Sunamganj</item>
+
+    </string-array>
+</resources>
